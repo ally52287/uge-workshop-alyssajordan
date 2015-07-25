@@ -1,0 +1,46 @@
+    1   pwd
+    2  cd /c/Users/Alyssa\ Jordan
+    3  cd /c/Users/usr
+    4  pwd
+    5  ls
+    6  ls -l
+    7  cd 
+    8  cd drwxr-xr-x
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  cd ../..
+   13  pwd
+   14  cd ../..
+   15  pwd
+   16  cd
+   17  ls~
+   18  ls ~
+   19  ls /
+   20  pwd
+   21  ls -la/Users/
+   22  pwd
+   23  cd
+   24  ls --help
+   25  cd
+   26  ls .
+   27  cd
+   28  ../..
+   29  cd ../..
+   30  cd
+   31  ls
+   32  history
+   33  hisory | less
+   34  history | less
+   35  man ls less
+   36  man less
+   37  cd
+   38  hisotry > moving_around.txt
+   39  ls
+   40  ls -t
+   41  ls
+   42  subl moving_around.text
+   43  subl moving_around.txt
+   44  hisotry > moving_around.txt
+   45  cd ~
+   46  history > moving_around.txt
