@@ -4,7 +4,7 @@
     4  pwd
     5  ls
     6  ls -l
-    7  cd 
+    7  cd
     8  cd drwxr-xr-x
     9  pwd
    10  cd ..
@@ -34,7 +34,7 @@
    34  history | less
    35  man ls less
    36  man less
-   37  cd
+   37  cd why
    38  hisotry > moving_around.txt
    39  ls
    40  ls -t
@@ -42,5 +42,6 @@
    42  subl moving_around.text
    43  subl moving_around.txt
    44  hisotry > moving_around.txt
-   45  cd ~
+   45  cd ~ i am not doing well
    46  history > moving_around.txt
+   47 subl allows you to move your info tosublima to add additional notes
